@@ -1,0 +1,23 @@
+[
+    {
+        "course" : "Diploma - Web Design and Development Co-op",
+        "school" : "Create Career College",
+        "date" : "2023 - 2025 | Expected Completion : 2025",
+        "imageSrc" : "ccc.png"
+    },
+
+    {
+        "course" : "Postgraduate Diploma - Data Science",
+        "school" : "University of Sunderland",
+        "date" : "2020 - 2022 | Completed",
+        "imageSrc" : "uofshk.png"
+    },
+
+    {
+        "course" : "Bachelor of Science - Applied Mathematics Major with Economics Option",
+        "school" : "University of Manitoba",
+        "date" : "2007 - 2013 | Completed",
+        "imageSrc" : "uofm.png"
+    }
+
+]

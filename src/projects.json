@@ -1,0 +1,28 @@
+[
+    {
+        "title" : "Weather",
+        "imageSrc" : "weather.jpg",
+        "description" : "Use API to build a weather website app.",
+        "skills" : ["HTML", "CSS", "JavaScript"],
+        "domo" : "https://dustincst.github.io/weather/",
+        "source" : "https://github.com/dustincst/weather.git"
+    },
+
+    {
+        "title" : "Restaurant",
+        "imageSrc" : "restaurant.png",
+        "description" : "Create a website via Webflow which is a CMS.",
+        "skills" : ["Webflow"],
+        "domo" : "https://dustinsrestaurant.webflow.io/",
+        "source" : ""
+    },
+    
+    {
+        "title" : "Shop",
+        "imageSrc" : "Wireframe - High.png",
+        "description" : "Build the website using PHP, CSS and My SQL.",
+        "skills" : ["PHP", "CSS", "MySQL"],
+        "domo" : "",
+        "source" : "https://github.com/dustincst/php.git"
+    }   
+]

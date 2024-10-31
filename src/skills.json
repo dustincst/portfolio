@@ -1,0 +1,42 @@
+[
+    {
+        "title" : "HTML",
+        "imageSrc" : "html.png"
+    },
+    {
+        "title" : "CSS",
+        "imageSrc" : "css.png"
+    },
+    {
+        "title" : "JavaScript",
+        "imageSrc" : "js.png"
+    },
+    {
+        "title" : "React",
+        "imageSrc" : "react.png"
+    },
+    {
+        "title" : "Figma",
+        "imageSrc" : "figma.png"
+    },
+    {
+        "title" : "PHP",
+        "imageSrc" : "php.png"
+    },
+    {
+        "title" : "WordPress",
+        "imageSrc" : "wordpress.png"
+    },
+    {
+        "title" : "GitHub",
+        "imageSrc" : "github.png"
+    },
+    {
+        "title" : "Webflow",
+        "imageSrc" : "webflow.png"
+    },
+    {
+        "title" : "MySQL",
+        "imageSrc" : "mysql.png"
+    }
+]
